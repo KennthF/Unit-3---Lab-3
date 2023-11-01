@@ -19,7 +19,7 @@ print("Welcome to simple calculator.")
 print("I will add/subtract/multiple/divide any two numbers you provide.")
 first_input = input("Enter in first number: ")
 second_input = input("Enter in second number: ")
-operation = input("Would you like to add/subtract/multiple/divide: ")
+operation = input("Would you like to add/subtract/multiply/divide: ")
 
 # explicitly convert string type to float type
 first_number = float(first_input)
